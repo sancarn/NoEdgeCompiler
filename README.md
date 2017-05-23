@@ -51,3 +51,6 @@ E.G. C:\Programming\Hello.exe
 	
 ## Dependencies:
 Microsoft Common Language Runtime (CLR) / .NET Framework.
+
+## Credits:
+This is largely a wrapper around [Lexicos' CLR Interop for Autohotkey](https://autohotkey.com/boards/viewtopic.php?t=4633). Without this library this project would be much more difficult.
